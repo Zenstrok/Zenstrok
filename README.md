@@ -62,4 +62,4 @@ Automated network infrastructure for thin clients: DHCP + LTSP for IP assignment
 
 ## 🌎 Languages
 
-🇪🇸 Spanish (Native) · 🇬🇧 English (B2) · 🇧🇷 Portuguese (B2)
+Spanish (Native) · English (B2) · Portuguese (B2)
