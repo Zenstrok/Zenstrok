@@ -1,4 +1,4 @@
-# Hi, I'm Jose Mario 👋
+# About Me:
 
 **Computer Science Engineering student @ Instituto Tecnológico de Costa Rica** — focused on **Software, Data & Machine Learning**.
 
