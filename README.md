@@ -74,4 +74,4 @@ Artist recommendation engine using **ALS (Alternating Least Squares)** collabora
 
 ## 🌎 Languages
 
-Spanish (Native) · English (B2) · Portuguese (B2)
+Spanish (Native) · English (B2+) · Portuguese (B2)
